@@ -7,7 +7,7 @@ import {cors} from 'hono/cors'
 const app = new Hono<{
   Bindings:{
     DATABASE_URL : string,
-    SECRET_PATH : string
+    JWT_SECRET : string
   }
 }>()
 
