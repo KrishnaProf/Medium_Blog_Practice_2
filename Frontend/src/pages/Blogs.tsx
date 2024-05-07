@@ -8,7 +8,7 @@ export const Blogs = () => {
       <div className="flex justify-center">
         <div>
           <Blogcard
-            Author="Krishna"
+            Author="Krishnan"
             title="New react feature"
             BlogContent="React new feature details"
             PublishedDate="feb 12th 2024"
