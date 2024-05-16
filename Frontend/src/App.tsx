@@ -6,6 +6,7 @@ import { Blog } from "./pages/Blog";
 import { Blogs } from "./pages/Blogs";
 import { Landing } from "./pages/Landing";
 
+
 function App() {
   return (
     <>
