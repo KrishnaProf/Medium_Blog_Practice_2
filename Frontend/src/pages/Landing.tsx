@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 export const Landing = () => {
   return (
     <div className="border-b flex justify-between px-10 py-1">
-      <h1 className="flex flex-col justify-center cursor-pointer">Medium</h1>
+      <h1 className="flex flex-col justify-center cursor-pointer">Medium </h1>
       <div>
         <Link to={`/signup`}>
           <button
