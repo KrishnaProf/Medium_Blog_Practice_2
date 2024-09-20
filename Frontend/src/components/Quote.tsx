@@ -1,4 +1,5 @@
 export const Quote = () => {
+  
   return (
     <div className="bg-slate-100 h-screen flex justify-center flex-col">
       <div className="flex justify-center">
