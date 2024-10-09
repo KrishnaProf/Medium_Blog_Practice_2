@@ -8,7 +8,6 @@ interface BlogcardInterface {
   id: number;
 }
 
-
 export const Blogcard = ({
   Author,
   title,
